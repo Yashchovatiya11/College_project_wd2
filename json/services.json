@@ -1,0 +1,44 @@
+{
+    "services" : [
+        {
+            "iconclass" : "fas fa-cheese fa-7x text-primary mb-4",
+            "sname" : "Wedding Services",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-pizza-slice fa-7x text-primary mb-4",
+            "sname" : "Corporate Catering",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-hotdog fa-7x text-primary mb-4",
+            "sname" : "Cocktail Reception",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-hamburger fa-7x text-primary mb-4",
+            "sname" : "Bento Catering",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-walking fa-7x text-primary mb-4",
+            "sname" : "Home Delivery",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-wheelchair fa-7x text-primary mb-4",
+            "sname" : "Sit-down Catering",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-utensils fa-7x text-primary mb-4",
+            "sname" : "Buffet Catering",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        },
+        {
+            "iconclass" : "fas fa-wine-glass-alt fa-7x text-primary mb-4",
+            "sname" : "Pub Party",
+            "sdetails" : "Contrary to popular belief, ipsum is not simply random."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "staff": [
+        {
+            "image": [
+                {
+                    "url": "./img/team-1.jpg"
+                }
+            ],
+            "name": "Henry",
+            "age": 23,
+            "work": "Decoration Chef",
+            "experience": "10+ Years",
+            "email": "henry@gmail.com",
+            "about": "my name is henry. i am very good in decoration of every dish with color combination"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/team-2.jpg"
+                }
+            ],
+            "name": "Jemes Born",
+            "age": 30,
+            "work": "Executive Chef",
+            "experience": "5+ Years",
+            "email": "born@gmail.com",
+            "about": "my name is Jemes born. you call me boby."
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/team-3.jpg"
+                }
+            ],
+            "name": "Martin Hill",
+            "age": 28,
+            "work": "Kitchen Porter",
+            "experience": "8+ Years",
+            "email": "hill@gmail.com",
+            "about": "my name is Martin Hill. i am add my Women expertices in our restro."
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/team-4.jpg"
+                }
+            ],
+            "name": "Adam Smith",
+            "age": 45,
+            "work": "Head Chef",
+            "experience": "20+ Years",
+            "email": "smith@gmail.com",
+            "about": "my name is Adam Smith. we like a family"
+        }
+    ]
+}
